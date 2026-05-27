@@ -15,7 +15,7 @@
 | **Written On** | May 27, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/locked-in-your-body/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Locked In Your Body](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/locked-in-your-body/) |
+| **Get License** | [Official Music Licensing for Locked In Your Body](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/locked-in-your-body/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 

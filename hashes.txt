@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Locked In Your Body
+
+This log tracks the cryptographic history and versioning for the song **Locked In Your Body** (locked-in-your-body).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-27T16:32:29.781966 | `v1` | `` | `00911a913018fffad530d01b5eba7f8e04f44b0d2f89317ddf38acee3f30935f` | `2026-05-27_locked-in-your-body-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
